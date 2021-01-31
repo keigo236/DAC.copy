@@ -307,6 +307,7 @@ span {
 }
 .entry-img {
   margin-top: 226px;
+  background:url("./copy/css/b-hoto");
   background-size: 100%;
   width: 1300px;
   position: relative;
